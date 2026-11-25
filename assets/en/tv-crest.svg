@@ -1,0 +1,498 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 322 62" width="322" height="62" role="img" aria-label="Thiruvalluvar Statue — Thiruvalluvar Year 2057">
+<defs>
+<filter id="wob2" x="-4%" y="-6%" width="108%" height="112%"><feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="11" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="1.5" xChannelSelector="R" yChannelSelector="G"/></filter>
+<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="8"/><feColorMatrix type="matrix" values="0 0 0 0 0.36  0 0 0 0 0.27  0 0 0 0 0.18  0.35 0 0 0 -0.09"/></filter>
+<linearGradient id="skinTorso" x1="15%" y1="10%" x2="85%" y2="85%">
+      <stop offset="0%" stop-color="#F7BA68" />
+      <stop offset="45%" stop-color="#E18329" />
+      <stop offset="80%" stop-color="#B84B14" />
+      <stop offset="100%" stop-color="#7B250A" />
+    </linearGradient>
+
+    <linearGradient id="skinArmRight" x1="0%" y1="20%" x2="100%" y2="60%">
+      <stop offset="0%" stop-color="#9A360F" />
+      <stop offset="22%" stop-color="#F6B662" />
+      <stop offset="68%" stop-color="#DF7E25" />
+      <stop offset="100%" stop-color="#9E3910" />
+    </linearGradient>
+
+    <linearGradient id="skinFace" x1="25%" y1="15%" x2="85%" y2="85%">
+      <stop offset="0%" stop-color="#FAD089" />
+      <stop offset="48%" stop-color="#EA973E" />
+      <stop offset="82%" stop-color="#C8631D" />
+      <stop offset="100%" stop-color="#9B3911" />
+    </linearGradient>
+
+    <linearGradient id="skinFoot" x1="20%" y1="10%" x2="85%" y2="90%">
+      <stop offset="0%" stop-color="#F4AC58" />
+      <stop offset="55%" stop-color="#D97321" />
+      <stop offset="100%" stop-color="#9A3610" />
+    </linearGradient>
+
+    
+    <linearGradient id="clothBase" x1="15%" y1="10%" x2="85%" y2="90%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="45%" stop-color="#EEF2F6" />
+      <stop offset="80%" stop-color="#CBD5E1" />
+      <stop offset="100%" stop-color="#94A3B8" />
+    </linearGradient>
+
+    <linearGradient id="clothShadow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#64748B" />
+      <stop offset="55%" stop-color="#94A3B8" />
+      <stop offset="100%" stop-color="#CBD5E1" />
+    </linearGradient>
+
+    <linearGradient id="clothDeepFold" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#475569" />
+      <stop offset="60%" stop-color="#7C8B9E" />
+      <stop offset="100%" stop-color="#B0BCCB" />
+    </linearGradient>
+
+    
+    <linearGradient id="hairTopknot" x1="20%" y1="10%" x2="80%" y2="90%">
+      <stop offset="0%" stop-color="#57534E" />
+      <stop offset="35%" stop-color="#292524" />
+      <stop offset="70%" stop-color="#78716C" />
+      <stop offset="100%" stop-color="#1C1917" />
+    </linearGradient>
+
+    <linearGradient id="beardGrad" x1="30%" y1="0%" x2="65%" y2="100%">
+      <stop offset="0%" stop-color="#CBD5E1" />
+      <stop offset="32%" stop-color="#8C9298" />
+      <stop offset="68%" stop-color="#5E5852" />
+      <stop offset="100%" stop-color="#3E3934" />
+    </linearGradient>
+
+    <linearGradient id="mustacheGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9CA3AF" />
+      <stop offset="35%" stop-color="#F1F5F9" />
+      <stop offset="65%" stop-color="#E2E8F0" />
+      <stop offset="100%" stop-color="#94A3B8" />
+    </linearGradient>
+
+    
+    <linearGradient id="palmLeafGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E7B162" />
+      <stop offset="50%" stop-color="#CE8A39" />
+      <stop offset="100%" stop-color="#9D5C1B" />
+    </linearGradient>
+
+    <linearGradient id="stylusHandle" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F3C178" />
+      <stop offset="45%" stop-color="#B56E25" />
+      <stop offset="100%" stop-color="#5C310C" />
+    </linearGradient>
+
+    <linearGradient id="stylusBlade" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9CA3AF" />
+      <stop offset="50%" stop-color="#4B5563" />
+      <stop offset="100%" stop-color="#1F2937" />
+    </linearGradient>
+
+    
+    <linearGradient id="pedestalTop" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6B6A53" />
+      <stop offset="45%" stop-color="#8E8E75" />
+      <stop offset="100%" stop-color="#B3B59C" />
+    </linearGradient>
+</defs>
+<rect x="2" y="2" width="318" height="58" rx="29" fill="#f7f0df" stroke="#8a7340" stroke-width="2.2" filter="url(#wob2)"/>
+<rect x="2" y="2" width="318" height="58" rx="29" filter="url(#grain)"/>
+<circle cx="33" cy="31" r="23.5" fill="#fbe9cd" stroke="#e8a621" stroke-opacity="0.7" stroke-width="1.4"/>
+<g transform="translate(10 6) scale(0.058)">
+<g id="pedestal">
+    <polygon points="72,764 728,764 794,846 6,846" fill="url(#pedestalTop)" stroke="#231F1D" stroke-width="2.5" />
+    
+    <ellipse cx="400" cy="812" rx="315" ry="30" fill="#3B3A2E" opacity="0.55" />
+    
+    <rect x="4" y="846" width="792" height="14" fill="#2A211B" />
+    <line x1="4" y1="846" x2="796" y2="846" stroke="#5A4B3F" stroke-width="1.5" />
+    <g fill="#7C6855">
+      <circle cx="38" cy="853" r="2.5" />
+      <circle cx="96" cy="853" r="2.5" />
+      <circle cx="154" cy="853" r="2.5" />
+      <circle cx="646" cy="853" r="2.5" />
+      <circle cx="704" cy="853" r="2.5" />
+      <circle cx="762" cy="853" r="2.5" />
+    </g>
+  </g>
+
+  
+  <g id="seated-veshti">
+    
+    <path d="M 185 572
+             C 122 612, 62 668, 58 726
+             C 55 776, 102 818, 165 836
+             C 242 854, 345 854, 428 848
+             C 518 844, 625 842, 682 818
+             C 728 798, 746 752, 742 706
+             C 738 656, 688 602, 622 572
+             Z" fill="url(#clothBase)" stroke="#64748B" stroke-width="1.5" />
+
+    
+    <path d="M 62 726
+             C 92 756, 162 786, 255 796
+             C 328 804, 398 794, 452 778
+             C 392 814, 298 836, 195 832
+             C 122 828, 72 784, 62 726 Z" fill="url(#clothShadow)" opacity="0.55" />
+
+    <path d="M 135 668
+             C 192 704, 278 732, 376 742
+             C 312 758, 224 756, 146 724 Z" fill="#94A3B8" opacity="0.45" />
+
+    
+    <path d="M 358 742
+             C 402 762, 438 795, 452 842
+             L 345 848
+             C 365 812, 372 775, 358 742 Z" fill="url(#clothDeepFold)" opacity="0.55" />
+
+    
+    <path d="M 738 710
+             C 712 748, 655 782, 585 802
+             C 638 812, 695 798, 728 762 Z" fill="url(#clothShadow)" opacity="0.5" />
+
+    
+    <g fill="none" stroke="#64748B" stroke-linecap="round" opacity="0.6">
+      <path d="M 118 654 Q 212 708 338 726" stroke-width="2.2" />
+      <path d="M 94 705 Q 198 756 346 774" stroke-width="2" />
+      <path d="M 155 782 Q 258 818 378 814" stroke-width="2.2" />
+      <path d="M 424 724 Q 515 698 608 692" stroke-width="2" />
+      <path d="M 555 815 Q 642 798 712 754" stroke-width="2.2" />
+    </g>
+
+    
+    <g id="right-foot">
+      
+      <path d="M 455 776 C 505 804, 578 814, 616 798 C 585 822, 505 818, 452 786 Z" fill="#64748B" opacity="0.65" />
+      
+      <path d="M 456 742
+               C 492 726, 542 722, 582 738
+               C 602 746, 618 754, 621 765
+               C 623 774, 614 778, 604 776
+               C 612 782, 608 790, 598 788
+               C 603 794, 598 800, 588 798
+               C 591 804, 584 808, 574 804
+               C 535 798, 492 782, 455 768 Z" fill="url(#skinFoot)" stroke="#7C2D12" stroke-width="1.2" />
+      
+      <path d="M 476 744 C 512 732, 552 732, 582 746 C 552 746, 514 750, 476 756 Z" fill="#FAD089" opacity="0.6" />
+      
+      <g stroke="#7C2D12" stroke-width="1.2" fill="none" stroke-linecap="round">
+        <path d="M 588 766 Q 604 772 616 774" />
+        <path d="M 582 776 Q 596 783 606 786" />
+        <path d="M 575 785 Q 588 792 596 796" />
+        <path d="M 568 793 Q 578 799 586 802" />
+      </g>
+      <ellipse cx="613" cy="762" rx="4.5" ry="2.8" transform="rotate(18 613 762)" fill="#FDE68A" opacity="0.7" />
+    </g>
+  </g>
+
+  
+  <g id="torso-and-right-arm">
+    
+    <path d="M 218 395 L 278 395 L 278 552 L 214 552 Z" fill="#6E1D11" />
+
+    
+    <path d="M 252 308
+             C 302 288, 362 284, 425 292
+             L 402 425
+             C 356 472, 312 518, 265 556
+             C 254 482, 250 392, 252 308 Z" fill="url(#skinTorso)" />
+
+    
+    <path d="M 264 416 C 304 434, 348 430, 384 405" fill="none" stroke="#9A3412" stroke-width="2.5" opacity="0.65" />
+    <path d="M 272 454 C 296 462, 318 460, 338 450" fill="none" stroke="#9A3412" stroke-width="2" opacity="0.5" />
+    <path d="M 272 486 C 294 494, 314 492, 332 482" fill="none" stroke="#9A3412" stroke-width="2" opacity="0.5" />
+    
+    <ellipse cx="312" cy="402" rx="9" ry="7" fill="#A83814" opacity="0.75" />
+    <circle cx="313" cy="402" r="3" fill="#6E1D11" />
+
+    
+    <path d="M 304 235 C 296 262, 284 286, 268 302 L 298 298 C 306 282, 312 262, 316 242 Z" fill="#1C1917" />
+
+    
+    <path d="M 268 302
+             C 224 304, 184 322, 168 362
+             C 152 406, 146 478, 142 546
+             C 140 578, 152 608, 174 636
+             L 198 656
+             L 224 646
+             C 208 614, 198 584, 196 554
+             C 202 496, 214 438, 224 396
+             C 242 384, 258 362, 268 332 Z" fill="url(#skinArmRight)" stroke="#7C2D12" stroke-width="1.2" />
+
+    
+    <path d="M 184 342
+             C 166 385, 158 458, 155 538
+             C 154 568, 166 598, 188 628" fill="none" stroke="#FDE08D" stroke-width="4" stroke-linecap="round" opacity="0.65" />
+  </g>
+
+  
+  <g id="angavastram">
+    
+    <path d="M 488 272
+             C 535 294, 566 346, 578 416
+             C 592 488, 608 552, 624 598
+             L 525 568
+             L 495 452 Z" fill="url(#clothBase)" stroke="#64748B" stroke-width="1.4" />
+
+    
+    <g fill="none" stroke="#64748B" stroke-linecap="round" opacity="0.65">
+      <path d="M 512 292 C 534 352, 548 432, 562 518" stroke-width="2.5" />
+      <path d="M 534 308 C 556 368, 572 448, 588 538" stroke-width="2.2" />
+      <path d="M 554 334 C 574 394, 590 468, 608 558" stroke-width="2" />
+    </g>
+
+    
+    <path d="M 476 270
+             C 432 342, 372 426, 298 498
+             C 272 522, 248 544, 232 566
+             C 254 596, 304 614, 372 618
+             C 448 622, 512 608, 558 584
+             C 542 518, 526 424, 514 316
+             C 506 292, 492 276, 476 270 Z" fill="url(#clothBase)" stroke="#64748B" stroke-width="1.5" />
+
+    
+    <path d="M 484 282
+             C 444 366, 386 458, 308 536
+             C 286 556, 266 572, 252 582
+             C 284 584, 336 554, 396 488
+             C 448 432, 482 364, 496 296 Z" fill="url(#clothShadow)" opacity="0.55" />
+
+    <path d="M 502 312
+             C 476 398, 434 488, 368 568
+             C 344 592, 318 606, 294 612
+             C 338 614, 394 588, 444 522
+             C 484 468, 504 396, 512 328 Z" fill="url(#clothShadow)" opacity="0.45" />
+
+    
+    <path d="M 228 552
+             C 214 574, 212 602, 224 626
+             C 268 656, 352 674, 446 672
+             C 524 670, 588 648, 624 614
+             C 608 594, 586 582, 558 578
+             C 498 614, 412 628, 326 616
+             C 276 608, 244 584, 228 552 Z" fill="url(#clothBase)" stroke="#64748B" stroke-width="1.4" />
+
+    
+    <g fill="none" stroke="#64748B" stroke-linecap="round" opacity="0.7">
+      <path d="M 232 586 C 292 624, 398 638, 518 616" stroke-width="2.4" />
+      <path d="M 226 610 C 296 648, 408 662, 542 634" stroke-width="2.4" />
+      <path d="M 484 304 C 454 398, 404 494, 328 578" stroke-width="2" />
+      <path d="M 506 346 C 486 434, 448 518, 386 594" stroke-width="2" />
+    </g>
+  </g>
+
+  
+  <g id="right-hand-and-stylus">
+    
+    <g id="ezhuthani-stylus">
+      
+      <polygon points="244,704 252,696 322,768 318,770" fill="url(#stylusBlade)" />
+      
+      <path d="M 128 652
+               C 125 648, 130 643, 135 646
+               L 144 652
+               C 148 649, 154 651, 156 655
+               L 196 675
+               L 188 688
+               L 148 666
+               C 144 668, 139 666, 137 661
+               L 128 656 Z" fill="url(#stylusHandle)" stroke="#451A03" stroke-width="1.2" />
+      
+      <line x1="145" y1="651" x2="138" y2="663" stroke="#FDE68A" stroke-width="2" />
+      <line x1="155" y1="654" x2="148" y2="666" stroke="#451A03" stroke-width="2" />
+    </g>
+
+    
+    <g id="right-hand">
+      
+      <path d="M 184 648
+               C 202 642, 226 644, 244 656
+               C 256 664, 260 676, 254 686
+               C 246 696, 226 704, 206 702
+               C 188 700, 176 686, 178 666 Z" fill="url(#skinFoot)" stroke="#7C2D12" stroke-width="1.2" />
+      
+      <path d="M 212 652 C 232 654, 248 664, 254 676 C 244 680, 228 674, 214 664 Z" fill="#F5B062" stroke="#7C2D12" stroke-width="1.1" />
+      
+      <g fill="#E5892E" stroke="#7C2D12" stroke-width="1.1">
+        <rect x="184" y="666" width="13" height="22" rx="6" transform="rotate(-28 184 666)" />
+        <rect x="196" y="672" width="13" height="24" rx="6" transform="rotate(-28 196 672)" />
+        <rect x="209" y="678" width="13" height="24" rx="6" transform="rotate(-28 209 678)" />
+        <rect x="222" y="684" width="12" height="22" rx="6" transform="rotate(-28 222 684)" />
+      </g>
+    </g>
+  </g>
+
+  
+  <g id="left-arm-and-manuscript">
+    
+    <path d="M 526 512
+             C 562 552, 608 594, 658 634
+             L 636 662
+             C 588 626, 546 588, 514 548 Z" fill="url(#skinFoot)" stroke="#7C2D12" stroke-width="1.2" />
+
+    
+    <path d="M 678 674 L 724 692 C 728 694, 726 700, 720 699 L 672 686 Z" fill="#E5892E" stroke="#7C2D12" stroke-width="1.1" />
+    <path d="M 672 686 L 712 712 C 715 715, 711 720, 706 717 L 664 696 Z" fill="#D97724" stroke="#7C2D12" stroke-width="1.1" />
+
+    
+    <g id="olai-chuvadi">
+      
+      <polygon points="748,512 756,518 644,758 634,752" fill="#7C4612" />
+      
+      <polygon points="712,494 748,512 634,752 598,732" fill="url(#palmLeafGrad)" stroke="#5C310C" stroke-width="1.3" />
+      
+      <circle cx="732" cy="522" r="4" fill="#3E1F06" />
+      <path d="M 732 522 Q 744 524 752 518" fill="none" stroke="#3E1F06" stroke-width="1.8" />
+      
+      <g stroke="#7C4612" stroke-width="1.1" stroke-dasharray="6 3 10 2 4 3" opacity="0.72">
+        <line x1="704" y1="528" x2="732" y2="542" />
+        <line x1="698" y1="540" x2="726" y2="554" />
+        <line x1="692" y1="552" x2="720" y2="566" />
+        <line x1="686" y1="564" x2="714" y2="578" />
+        <line x1="680" y1="576" x2="708" y2="590" />
+        <line x1="674" y1="588" x2="702" y2="602" />
+        <line x1="668" y1="600" x2="696" y2="614" />
+        <line x1="662" y1="612" x2="690" y2="626" />
+        <line x1="656" y1="624" x2="684" y2="638" />
+        <line x1="628" y1="682" x2="656" y2="696" />
+        <line x1="622" y1="694" x2="650" y2="708" />
+        <line x1="616" y1="706" x2="644" y2="720" />
+        <line x1="610" y1="718" x2="638" y2="732" />
+      </g>
+    </g>
+
+    
+    <g id="left-hand-front">
+      
+      <path d="M 634 634
+               C 652 636, 668 642, 676 650
+               C 680 654, 674 660, 666 658
+               C 654 654, 642 654, 634 662
+               C 626 672, 634 692, 654 704
+               C 666 710, 678 712, 684 706
+               C 676 720, 656 722, 638 710
+               C 620 698, 616 672, 624 650 Z" fill="url(#skinFoot)" stroke="#7C2D12" stroke-width="1.2" />
+    </g>
+  </g>
+
+  
+  <g id="head-and-face">
+    
+    <path d="M 308 214 L 352 214 L 356 302 C 334 308, 314 306, 298 298 Z" fill="url(#skinTorso)" />
+
+    
+    <g id="hair-topknot">
+      
+      <path d="M 294 114
+               C 288 158, 290 212, 296 254
+               L 334 252
+               L 336 106 Z" fill="#1C1917" />
+
+      
+      <path d="M 266 56
+               C 262 24, 292 6, 336 6
+               C 356 6, 368 12, 372 18
+               C 394 16, 418 28, 426 48
+               C 432 62, 438 74, 444 84
+               C 448 92, 444 102, 434 102
+               C 392 96, 348 104, 316 118
+               C 284 116, 268 88, 266 56 Z" fill="url(#hairTopknot)" stroke="#1C1917" stroke-width="1.5" />
+
+      
+      <g fill="none" stroke-linecap="round">
+        <path d="M 278 44 C 312 24, 362 18, 408 28" stroke="#A8A29E" stroke-width="3.5" opacity="0.7" />
+        <path d="M 274 62 C 316 42, 372 36, 422 48" stroke="#78716C" stroke-width="3" opacity="0.8" />
+        <path d="M 284 82 C 332 64, 386 58, 434 70" stroke="#A8A29E" stroke-width="3" opacity="0.65" />
+        
+        <path d="M 326 104 C 362 92, 406 90, 442 98" stroke="#CBD5E1" stroke-width="4" opacity="0.75" />
+      </g>
+    </g>
+
+    
+    <path d="M 332 106
+             C 368 98, 414 100, 442 114
+             C 452 122, 454 142, 454 162
+             C 456 178, 460 194, 456 208
+             C 452 222, 446 242, 434 256
+             C 412 272, 374 272, 348 252
+             C 332 234, 324 196, 326 154 Z" fill="url(#skinFace)" stroke="#7C2D12" stroke-width="1.2" />
+
+    
+    <ellipse cx="398" cy="128" rx="34" ry="15" fill="#FDE68A" opacity="0.45" />
+
+    
+    <g id="ear">
+      <path d="M 326 164
+               C 312 156, 294 162, 294 182
+               C 294 202, 304 224, 318 226
+               C 328 228, 332 216, 330 202 Z" fill="#C8631D" stroke="#6E1D11" stroke-width="1.3" />
+      <path d="M 318 172 C 306 170, 302 184, 308 198 C 312 206, 320 206, 322 196" fill="none" stroke="#6E1D11" stroke-width="2" stroke-linecap="round" />
+    </g>
+
+    
+    <g id="facial-features">
+      
+      <path d="M 356 152 C 372 140, 396 142, 412 153" fill="none" stroke="#1C1917" stroke-width="4.5" stroke-linecap="round" />
+      <path d="M 428 153 C 438 144, 448 145, 455 152" fill="none" stroke="#1C1917" stroke-width="4" stroke-linecap="round" />
+
+      
+      <path d="M 366 166 Q 388 156 408 167 Q 388 175 366 166 Z" fill="#FFFFFF" stroke="#292524" stroke-width="1.4" />
+      <circle cx="390" cy="166" r="6.5" fill="#1C1917" />
+      <circle cx="392" cy="164" r="1.8" fill="#FFFFFF" />
+      <path d="M 364 161 Q 388 150 409 162" fill="none" stroke="#6E1D11" stroke-width="1.4" />
+
+      
+      <path d="M 431 167 Q 444 158 455 166 Q 444 174 431 167 Z" fill="#FFFFFF" stroke="#292524" stroke-width="1.4" />
+      <circle cx="445" cy="166" r="5.5" fill="#1C1917" />
+      <circle cx="447" cy="164" r="1.5" fill="#FFFFFF" />
+      <path d="M 430 161 Q 444 152 455 161" fill="none" stroke="#6E1D11" stroke-width="1.4" />
+
+      
+      <path d="M 418 156
+               C 422 174, 428 190, 434 202
+               C 436 207, 431 212, 422 211
+               C 414 210, 408 206, 406 202" fill="none" stroke="#7C2D12" stroke-width="2" stroke-linecap="round" />
+      
+      <path d="M 416 162 L 426 198" fill="none" stroke="#FDE68A" stroke-width="2.5" stroke-linecap="round" opacity="0.65" />
+
+      
+      <path d="M 404 226 Q 422 220 442 226 Q 434 238 422 238 Q 410 238 404 226 Z" fill="#A62C21" stroke="#6E1D11" stroke-width="1" />
+      <path d="M 404 226 Q 422 228 442 226" fill="none" stroke="#5C1610" stroke-width="1.4" />
+    </g>
+
+    
+    <g id="beard-and-mustache">
+      
+      <path d="M 326 192
+               C 316 226, 312 268, 326 304
+               C 340 338, 376 364, 412 366
+               C 438 366, 458 346, 466 318
+               C 474 288, 472 246, 456 218
+               C 452 246, 444 266, 424 268
+               C 396 270, 368 256, 352 228
+               C 342 212, 336 198, 326 192 Z" fill="url(#beardGrad)" stroke="#44403C" stroke-width="1.2" />
+
+      
+      <g fill="none" stroke-linecap="round" opacity="0.72">
+        <path d="M 332 224 C 326 264, 334 306, 358 338" stroke="#D1D5DB" stroke-width="2.2" />
+        <path d="M 346 238 C 344 282, 356 324, 384 352" stroke="#E5E7EB" stroke-width="2" />
+        <path d="M 364 252 C 366 294, 378 334, 404 358" stroke="#9CA3AF" stroke-width="2.2" />
+        <path d="M 386 264 C 392 302, 404 338, 422 356" stroke="#3F3A36" stroke-width="2.4" />
+        <path d="M 412 268 C 420 304, 430 334, 442 346" stroke="#D1D5DB" stroke-width="2" />
+        <path d="M 442 254 C 452 286, 456 314, 452 332" stroke="#9CA3AF" stroke-width="2" />
+      </g>
+
+      
+      <path d="M 422 213
+               C 402 212, 382 226, 368 250
+               C 384 246, 404 234, 422 222
+               C 436 232, 450 244, 462 248
+               C 454 226, 440 212, 422 213 Z" fill="url(#mustacheGrad)" stroke="#64748B" stroke-width="1" />
+    </g>
+  </g>
+</g>
+<text x="66" y="23.5" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'Noto Sans',sans-serif" font-size="10" font-weight="600" letter-spacing="0.5" fill="#7a6a5c" text-anchor="start">TAMIL CALENDAR</text>
+<text x="66" y="44.5" font-family="Georgia,'Palatino Linotype',Palatino,'Noto Serif',serif" font-size="17.0" font-weight="bold" fill="#4a3416" text-anchor="start">Thiruvalluvar Year 2057</text>
+</svg>

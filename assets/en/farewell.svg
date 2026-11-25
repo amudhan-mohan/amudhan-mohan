@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 104" width="1160" height="104" role="img" aria-label="Thanks for stopping by.">
+<defs>
+  <filter id="wob2" x="-4%" y="-6%" width="108%" height="112%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="11" result="n"/>
+    <feDisplacementMap in="SourceGraphic" in2="n" scale="1.8" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="8"/>
+    <feColorMatrix type="matrix" values="0 0 0 0 0.36  0 0 0 0 0.27  0 0 0 0 0.18  0.35 0 0 0 -0.09"/>
+  </filter>
+  <clipPath id="fw-clip"><rect width="1160" height="104" rx="16"/></clipPath>
+  <clipPath id="left-hand-clip">
+    <path d="M 500 252 C 494 240, 476 234, 464 238 C 461 248, 461 264, 461 276 C 455 278, 453 302, 453 326 C 445 328, 442 354, 441 380 C 433 383, 424 445, 412 505 C 396 575, 376 635, 355 676 C 275 735, 140 815, 0 890 L 0 1000 L 202 1000 C 278 924, 355 868, 438 816 C 476 792, 496 730, 500 650 Z"/>
+  </clipPath>
+  <g id="namaste-hand">
+    <g stroke="#5C1D11" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M 326 698 C 325 680, 344 678, 347 694 Z" fill="#55C2B7"/>
+      <path d="M 334 882 C 340 908, 358 906, 358 874 Z" fill="#55C2B7"/>
+      <path d="M 296 724 C 292 702, 312 698, 316 716 Z" fill="#F7D348"/>
+      <path d="M 374 862 C 378 898, 396 904, 392 918 L 382 922 C 372 908, 366 882, 366 866 Z" fill="#F7D348"/>
+    </g>
+    <g>
+      <path d="M 500 252 C 494 240, 476 234, 464 238 C 461 248, 461 264, 461 276 C 455 278, 453 302, 453 326 C 445 328, 442 354, 441 380 C 433 383, 424 445, 412 505 C 396 575, 376 635, 355 676 C 275 735, 140 815, 0 890 L 0 1000 L 202 1000 C 278 924, 355 868, 438 816 C 476 792, 496 730, 500 650 Z" fill="#F9A479"/>
+      <path d="M 132 1000 C 235 910, 335 842, 426 786 C 466 762, 488 690, 496 545 L 504 545 L 504 760 L 440 830 L 215 1000 Z" fill="#C97853" clip-path="url(#left-hand-clip)"/>
+      <path d="M 500 252 C 494 240, 476 234, 464 238 C 461 248, 461 264, 461 276 C 455 278, 453 302, 453 326 C 445 328, 442 354, 441 380 C 433 383, 424 445, 412 505 C 396 575, 376 635, 355 676 C 275 735, 140 815, 0 890" fill="none" stroke="#5C1D11" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M 202 1000 C 278 924, 355 868, 438 816 C 476 792, 496 730, 500 650 L 500 252" fill="none" stroke="#5C1D11" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <g fill="none" stroke="#5C1D11" stroke-width="4.5" stroke-linecap="round">
+        <path d="M 461 276 C 470 278, 476 282, 476 288 C 468 365, 446 465, 422 542"/>
+        <path d="M 453 326 C 464 328, 472 333, 472 340 C 466 420, 454 510, 440 595"/>
+        <path d="M 441 380 C 454 382, 463 388, 463 395 C 459 452, 454 512, 447 564"/>
+      </g>
+      <g fill="#F7D5C6" stroke="#5C1D11" stroke-width="3.5" stroke-linejoin="round">
+        <path d="M 463 241 C 471 241, 474 247, 474 256 C 474 265, 471 271, 462 271 Z"/>
+        <path d="M 455 282 C 465 282, 469 289, 469 300 C 469 311, 464 318, 454 318 Z"/>
+        <path d="M 444 333 C 455 333, 460 340, 460 352 C 460 363, 454 370, 443 370 Z"/>
+        <path d="M 432 387 C 443 387, 448 394, 448 405 C 448 415, 442 421, 430 421 Z"/>
+      </g>
+    </g>
+    <g stroke="#5C1D11" stroke-width="4.8" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M 328 692 C 302 745, 300 838, 326 898 C 332 910, 344 914, 348 904 C 320 845, 318 750, 344 694 C 340 684, 331 685, 328 692 Z" fill="#55C2B7"/>
+      <path d="M 296 716 C 292 775, 325 865, 376 918 C 385 926, 396 922, 392 910 C 344 858, 310 770, 314 714 C 312 704, 298 706, 296 716 Z" fill="#F7D348"/>
+      <path d="M 356 676 C 346 694, 348 742, 353 772 C 356 786, 377 786, 378 770 C 379 742, 376 702, 368 682 C 365 674, 359 672, 356 676 Z" fill="#E64598"/>
+      <ellipse cx="366" cy="767" rx="7.5" ry="11.5" transform="rotate(-6 366 767)" fill="#4CE038" stroke-width="4"/>
+      <path d="M 254 804 C 238 835, 234 878, 248 912 C 256 930, 282 938, 296 924 C 302 918, 296 908, 286 912 C 272 916, 262 904, 258 886 C 253 862, 260 834, 274 814 C 279 804, 260 794, 254 804 Z" fill="#E64598"/>
+      <ellipse cx="263" cy="813" rx="7.5" ry="11.5" transform="rotate(14 263 813)" fill="#4CE038" stroke-width="4"/>
+    </g>
+  </g>
+</defs>
+<rect width="1160" height="104" rx="16" fill="#f7f0df"/>
+<rect width="1160" height="104" rx="16" filter="url(#grain)"/>
+<g clip-path="url(#fw-clip)">
+  <circle cx="424" cy="56" r="39" fill="#fbe9cd" stroke="#e8a621" stroke-opacity="0.55" stroke-width="1.5"/>
+  <g transform="translate(377 10) scale(0.094)">
+    <use href="#namaste-hand"/>
+    <use href="#namaste-hand" transform="translate(1000, 0) scale(-1, 1)"/>
+  </g>
+</g>
+<rect x="1.5" y="1.5" width="1157" height="101" rx="15" fill="none" stroke="#dccb94" stroke-width="2" filter="url(#wob2)"/>
+<text x="492" y="61" font-family="Georgia,'Palatino Linotype',Palatino,'Noto Serif',serif" font-size="27" font-weight="bold" font-style="italic" fill="#3a2d28" text-anchor="start">Thanks for stopping by.</text>
+</svg>

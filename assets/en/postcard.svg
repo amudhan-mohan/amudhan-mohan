@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 456" width="920" height="456" role="img" aria-label="Post card: Say hello. Got a project, an idea, or a bug to report? Write to me anytime at hello@amudhanmohan.in. amudhanmohan.in, github.com/amudhan-mohan, linkedin.com/in/amudhan-mohan, @amudhan_mohan">
+<defs><filter id="wob2" x="-4%" y="-4%" width="108%" height="108%"><feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="11" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="2.4" xChannelSelector="R" yChannelSelector="G"/></filter>
+<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="8"/><feColorMatrix type="matrix" values="0 0 0 0 0.36  0 0 0 0 0.27  0 0 0 0 0.18  0.35 0 0 0 -0.09"/></filter>
+<filter id="soft" x="-10%" y="-10%" width="120%" height="130%"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<g transform="rotate(-0.8 460 228)">
+<rect x="14" y="22" width="892" height="418" rx="8" fill="#000" opacity="0.13" filter="url(#soft)"/>
+<rect x="10" y="12" width="896" height="422" rx="8" fill="#fffaf0"/><rect x="10" y="12" width="896" height="422" rx="8" filter="url(#grain)"/>
+<rect x="10" y="12" width="896" height="422" rx="8" fill="none" stroke="#c4372c" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="20 10"/>
+<text x="52" y="76" font-family="Georgia,'Palatino Linotype',Palatino,'Noto Serif',serif" font-size="16" font-weight="bold" font-style="italic" fill="#c4372c" text-anchor="start">Post card</text>
+<text x="52" y="148" font-family="Georgia,'Palatino Linotype',Palatino,'Noto Serif',serif" font-size="44" font-weight="bold" font-style="italic" fill="#3a2d28" text-anchor="start">Say hello</text>
+<text x="52" y="218" font-family="Georgia,'Palatino Linotype',Palatino,'Noto Serif',serif" font-size="20" font-weight="normal" font-style="italic" fill="#2f6a42" text-anchor="start">Got a project, an idea, or a bug to report?</text>
+<text x="52" y="252" font-family="Georgia,'Palatino Linotype',Palatino,'Noto Serif',serif" font-size="20" font-weight="normal" font-style="italic" fill="#2f6a42" text-anchor="start">Write to me anytime.</text>
+<text x="52" y="302" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'Noto Sans',sans-serif" font-size="12.5" fill="#7a6a5c" text-anchor="start">Email</text>
+<text x="52" y="326" font-family="Georgia,'Palatino Linotype',Palatino,'Noto Serif',serif" font-size="19.5" font-style="italic" fill="#2d3b6b" text-anchor="start">hello@amudhanmohan.in</text>
+<line x1="48" y1="335" x2="368" y2="335" stroke="#a9c3d8" stroke-width="1.6"/>
+<text x="52" y="388" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'Noto Sans',sans-serif" font-size="13" font-style="italic" fill="#7a6a5c" text-anchor="start">Tiruvannamalai Dt · Tamil Nadu · India</text>
+<line x1="530" y1="184" x2="530" y2="410" stroke="#7a6a5c" stroke-width="2" stroke-dasharray="2 7" stroke-linecap="round"/>
+<g transform="translate(748 36) rotate(2)"><rect width="116" height="132" fill="#fffaf0" stroke="#c4372c" stroke-width="5" stroke-dasharray="4 4" filter="url(#wob2)"/>
+<rect x="12" y="12" width="92" height="108" fill="#fbe9cd"/><circle cx="58" cy="74" r="22" fill="#e8a621"/>
+<path d="M12 98 Q40 82 62 96 T104 90 V120 H12Z" fill="#3f7d4e"/><text x="58" y="38" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'Noto Sans',sans-serif" font-size="11.5" font-weight="bold" fill="#3a2d28" text-anchor="middle">Tamil Nadu</text></g>
+<g transform="translate(676 108)" fill="none" stroke="#2d3b6b" stroke-opacity="0.55" stroke-width="2.4" filter="url(#wob2)"><circle r="38"/><path d="M-50 -10 q12 -8 24 0 t24 0 t24 0 t24 0 t24 0 M-50 8 q12 -8 24 0 t24 0 t24 0 t24 0 t24 0"/></g>
+<text x="572" y="204" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'Noto Sans',sans-serif" font-size="12.5" fill="#7a6a5c" text-anchor="start">Portfolio</text>
+<text x="572" y="226" font-family="Georgia,'Palatino Linotype',Palatino,'Noto Serif',serif" font-size="19" font-style="italic" fill="#3a2d28" text-anchor="start">amudhanmohan.in</text>
+<line x1="566" y1="235" x2="876" y2="235" stroke="#a9c3d8" stroke-width="1.6"/>
+<text x="572" y="260" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'Noto Sans',sans-serif" font-size="12.5" fill="#7a6a5c" text-anchor="start">GitHub</text>
+<text x="572" y="282" font-family="Georgia,'Palatino Linotype',Palatino,'Noto Serif',serif" font-size="19" font-style="italic" fill="#3a2d28" text-anchor="start">github.com/amudhan-mohan</text>
+<line x1="566" y1="291" x2="876" y2="291" stroke="#a9c3d8" stroke-width="1.6"/>
+<text x="572" y="316" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'Noto Sans',sans-serif" font-size="12.5" fill="#7a6a5c" text-anchor="start">LinkedIn</text>
+<text x="572" y="338" font-family="Georgia,'Palatino Linotype',Palatino,'Noto Serif',serif" font-size="18.5" font-style="italic" fill="#3a2d28" text-anchor="start">linkedin.com/in/amudhan-mohan</text>
+<line x1="566" y1="347" x2="876" y2="347" stroke="#a9c3d8" stroke-width="1.6"/>
+<text x="572" y="372" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'Noto Sans',sans-serif" font-size="12.5" fill="#7a6a5c" text-anchor="start">X</text>
+<text x="572" y="394" font-family="Georgia,'Palatino Linotype',Palatino,'Noto Serif',serif" font-size="19" font-style="italic" fill="#3a2d28" text-anchor="start">@amudhan_mohan</text>
+<line x1="566" y1="403" x2="876" y2="403" stroke="#a9c3d8" stroke-width="1.6"/>
+</g>
+</svg>

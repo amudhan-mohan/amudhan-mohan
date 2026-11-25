@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 42" width="320" height="42" role="img" aria-label="Kural 329  ·  Read explanation">
+<defs><filter id="wob2" x="-4%" y="-4%" width="108%" height="108%"><feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="11" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="2.2" xChannelSelector="R" yChannelSelector="G"/></filter></defs>
+<rect x="2" y="2" width="316" height="38" rx="19" fill="#f7f0df" stroke="#8a7340" stroke-width="2.2" filter="url(#wob2)"/><text x="160.0" y="26.5" font-family="Georgia,'Palatino Linotype',Palatino,'Noto Serif',serif" font-size="16" font-weight="bold" fill="#4a3416" text-anchor="middle">Kural 329  ·  Read explanation</text>
+</svg>
